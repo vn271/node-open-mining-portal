@@ -12,10 +12,7 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/zone117x/node-open-mining-portal",
-    "bugs": {
-        "url": "https://github.com/zone117x/node-open-mining-portal/issues"
-    },
+    "homepage": "https://github.com/vn271/node-open-mining-portal",
     "license": "GPL-2.0",
     "author": "Matthew Little",
     "contributors": [
@@ -28,10 +25,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-open-mining-portal.git"
+        "url": "https://github.com/vn271/node-open-mining-portal.git"
     },
     "dependencies": {
-        "stratum-pool": "git://github.com/zone117x/node-stratum-pool.git",
+        "stratum-pool": "https://github.com/vn271/node-stratum-pool.git",
         "dateformat": "1.0.12",
         "node-json-minify": "*",
         "redis": "0.12.1",
